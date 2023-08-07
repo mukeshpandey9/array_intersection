@@ -4,7 +4,7 @@ The intersection of two arrays: is the set of all elements of A that also belong
 
 Example: 
 
-Array1: { 1, 2, 3, 4, 5 }
+Array1: { 1, 2, 3, 4, 5 ,9}
 
 Array2: { 4, 5, 6, 7, 8, 9, 10 }
 
